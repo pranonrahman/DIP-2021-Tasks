@@ -6,7 +6,7 @@ This repository contains my codes of lab tasks of CSE 4741 (Digital Image Proces
 
     | File Name            | Details (Tasks)                                              |
     | -------------------- | ------------------------------------------------------------ |
-    | DIP_Lab_01_170041014 | 1. Thresholding Operation<\br>2. Histogram Generation       |
-    | DIP_Lab_02_170041014 | 1.  Log Transformation</br>2. Power-law Transformation.</br> 3. Implement Global Histogram Equalization on gray-scale images.</br>4.Implement Local Histogram Equalization (LHE) on gray scale images. |
-    | DIP_Lab_03_170041014 | 1. Linear Filter</br>2. Non-Linear Filter</br>3. Image Sharpening |
+    | DIP_Lab_01_170041014 | 1. Thresholding Operation 2. Histogram Generation       |
+    | DIP_Lab_02_170041014 | 1.  Log Transformation 2. Power-law Transformation. 3. Implement Global Histogram Equalization on gray-scale images. 4.Implement Local Histogram Equalization (LHE) on gray scale images. |
+    | DIP_Lab_03_170041014 | 1. Linear Filter 2. Non-Linear Filter</br>3. Image Sharpening |
 
