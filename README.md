@@ -1,4 +1,4 @@
-# DIP-2021-Tasks (Ongoing)
+# DIP-2021-Tasks 
 
 ## Overview 
 
